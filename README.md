@@ -1,5 +1,6 @@
 # OC-TodoApp-Docs
 
+[![Version](https://img.shields.io/badge/oc--todo--app-v1.0.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 Welcome to the **Technical Documentation** of **OC-Todo-App**  
