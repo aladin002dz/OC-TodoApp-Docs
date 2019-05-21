@@ -8,4 +8,4 @@ For more details check the [wiki](https://github.com/aladin002dz/OC-TodoApp-Docs
 
 ## License
 
-The code is available under the [MIT license](LICENSE).
+The project is available under the [MIT license](LICENSE).
