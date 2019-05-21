@@ -4,8 +4,9 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 Welcome to the **Technical Documentation** of **OC-Todo-App**  
+For more details check the [wiki](https://github.com/aladin002dz/OC-TodoApp-Docs/wiki)  
+  
 This project is for **OpenClassrooms Front-end Project8(Enhance an existing project)**
-For more details check the [wiki](https://github.com/aladin002dz/OC-TodoApp-Docs/wiki)
 
 ## License
 
