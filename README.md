@@ -1,3 +1,3 @@
 # OC-TodoApp-Docs
 
-[![][license img]][license]
+[![][license img]](license)
